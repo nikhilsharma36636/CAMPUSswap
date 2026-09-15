@@ -1,0 +1,6 @@
+{
+  "name": "CampusSwap",
+  "description": "A trusted college-only student marketplace to buy, sell, and exchange items with verified peers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
